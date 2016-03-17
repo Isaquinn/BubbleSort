@@ -1,0 +1,9 @@
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\bin\Debug\BubbleSort2.0.exe.config
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\bin\Debug\BubbleSort2.0.exe
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\bin\Debug\BubbleSort2.0.pdb
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.csprojResolveAssemblyReference.cache
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2._0.Properties.Resources.resources
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.csproj.GenerateResource.Cache
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.exe
+c:\users\isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.pdb
+C:\Users\Isaque\documents\visual studio 2015\Projects\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2._0.sort.resources
